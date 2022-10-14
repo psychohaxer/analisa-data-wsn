@@ -4,4 +4,4 @@
 Masih dalam pengerjaan.
 
 ## Link Render Notebook
-https://nbviewer.org/github/psychohaxer/analisa-data-wsn/Notebook.ipynb
+https://nbviewer.org/github/psychohaxer/analisa-data-wsn/blob/master/Notebook.ipynb
